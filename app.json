@@ -1,5 +1,5 @@
 {
-    "name": "File Store Bot",
+"name": "File Store Bot",
     "description": "A Telegram Files Store Bot to protect your Files in Pyrogram by @TheTeleRoid",
     "keywords": [
         "telegram",
@@ -15,8 +15,7 @@
         "BOT_TOKEN": {
             "description": "Get this from @BotFather XD"
         },
-        ,
-        "UPDATES_CHANNE LOG_CHANNEL": {
+        "UPDATES_CHANNEL": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
         }
     },
