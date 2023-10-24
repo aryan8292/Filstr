@@ -51,4 +51,4 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 
 [**Donate Me**](https://www.paypal.me/AbhishekKumarIN47) (𝐏𝐚𝐲𝐏𝐚𝐥)
 """
-	HOME_TEXT = ""🥰""
+	HOME_TEXT = """🥰"""
