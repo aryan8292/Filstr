@@ -5,7 +5,7 @@ import os
 
 class Config(object):
 	API_ID = int(os.environ.get("API_ID", "3334521"))
-	API_HASH = os.environ.get("API_HASH", " 29edd7420d528140c7a04bd47486886f")
+	API_HASH = os.environ.get("API_HASH", "29edd7420d528140c7a04bd47486886f")
 	BOT_TOKEN = os.environ.get("BOT_TOKEN")
 	BOT_USERNAME = os.environ.get("BOT_USERNAME", "Ary_Desibookpdf_bot")
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002077551988"))
